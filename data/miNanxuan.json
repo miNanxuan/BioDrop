@@ -1,0 +1,26 @@
+{
+  "name": "南暄",
+  "bio": "自由插畫師",
+  "avatar": "https://example.com/avatar.png",
+  "location": "Eorzea / Taiwan",
+  "socials": [
+    {
+      "name": "Pixiv",
+      "url": "https://www.pixiv.net/users/3321190"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Noran_mi"
+    }
+  ],
+  "links": [
+    {
+      "name": "作品集",
+      "url": "https://你的網站或Notion"
+    },
+    {
+      "name": "委託須知",
+      "url": "https://你的ko-fi或委託表單"
+    }
+  ]
+}
